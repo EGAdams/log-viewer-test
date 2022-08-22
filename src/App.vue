@@ -1,5 +1,5 @@
 
-
+<!-- /////////////////// Log Viewer Test ////////////////////////// -->
 <template>
     <div id="app">
     <log-viewer-test-vue></log-viewer-test-vue>
